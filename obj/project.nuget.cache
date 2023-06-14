@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PxzLiqpSYnFcQsp2hdMM2ycXrFnyXG3dQsSdmB/4qzidCxOF9yMC2zIIrap+uji66q3TUU5aaIuAsxR6PFU20w==",
+  "dgSpecHash": "a861PzGf0CWYwEgy480hi0RBDVtuLzynRK3z3vI1O8fLQ8CMH/dA+vDa8Ozhvyja32wStwhCgMs+82aNtSdQhw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Ruben\\source\\repos\\LLL-api\\LLL-api.csproj",
+  "projectFilePath": "C:\\Users\\Ruben\\Source\\Repos\\LLL-api-S3\\LLL-api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ruben\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\Ruben\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

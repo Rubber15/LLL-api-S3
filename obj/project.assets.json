@@ -4067,11 +4067,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ruben\\source\\repos\\LLL-api\\LLL-api.csproj",
+      "projectUniqueName": "C:\\Users\\Ruben\\Source\\Repos\\LLL-api-S3\\LLL-api.csproj",
       "projectName": "LLL-api",
-      "projectPath": "C:\\Users\\Ruben\\source\\repos\\LLL-api\\LLL-api.csproj",
+      "projectPath": "C:\\Users\\Ruben\\Source\\Repos\\LLL-api-S3\\LLL-api.csproj",
       "packagesPath": "C:\\Users\\Ruben\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ruben\\source\\repos\\LLL-api\\obj\\",
+      "outputPath": "C:\\Users\\Ruben\\Source\\Repos\\LLL-api-S3\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
