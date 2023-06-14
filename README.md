@@ -107,7 +107,7 @@ This is a Outcome that you show by acting in a professional manner.
 Above is the Full stack web application in developement. The bottom right shows a local database, Bottom left is the React app, which accesses the Api, which is shown in the top left. Code for the API is found here: 
 ## LO2 You use software **tooling and methodology** that continuously monitors and improve the software quality during software developement.
 
-## LO3 You **choose** and implement the most suitable software developement method for your software project. 
+## LO3 You **choose** and implement the most suitable AIGLE software developement method for your software project. 
 
 ## LO4 You **design and implement** a (semi)automated software release process that matches the need of the project context. 
 
