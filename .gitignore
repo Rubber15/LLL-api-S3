@@ -32,3 +32,5 @@ msbuild.wrn
 
 # Visual Studio 2015
 .vs/
+.vs/LLL-api/FileContentIndex/1389eeac-6545-4ea4-93d7-d447414f1fc7.vsidx
+.vs/LLL-api/v17/.suo

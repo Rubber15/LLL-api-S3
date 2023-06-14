@@ -17,6 +17,12 @@ namespace LLL_api
             return _context.Information.ToList();
         }
 
+        public InformationModel GetInformationById(int id)
+        {
+            return _context.Information.FirstOrDefault(info => info.InfromationID == id);
+        }
+
+
         public void AddInformation(InformationModel information)
         {
             _context.Information.Add(information);

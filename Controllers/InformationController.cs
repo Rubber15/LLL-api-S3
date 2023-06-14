@@ -25,6 +25,12 @@ namespace LLL_api.Controllers
             return dataBase.GetAllInformation();
         }
 
+        [HttpGet("{id}")]
+        public InformationModel Details(int id)
+        {
+            return dataBase.GetInformationById(id);
+        }
+
         [HttpPost]
         public void Post(InformationModel model)
         {
